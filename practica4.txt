@@ -1,4 +1,2 @@
-suma 5
-
-succ (suma 10)
+suma x = x+5
 
