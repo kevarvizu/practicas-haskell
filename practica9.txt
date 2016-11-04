@@ -1,27 +1,27 @@
-Prelude> let lista = [1,2,3,4,5,6,7,8,9]
-Prelude> let listaDeLista = [[1,2],[3,4]]
-Prelude> reverse lista
-[9,8,7,6,5,4,3,2,1]
-Prelude> reverse listaDeLista
-[[3,4],[1,2]]
-Prelude> let lista = [1,2,3,4,5,6,7,8,9]
-Prelude> let listaDeLista = [[1,2],[3,4]]
-Prelude> take 3 lista
-[1,2,3]
-Prelude> take 1 listaDeLista
-[[1,2]]
-Prelude> let lista = [1,2,3,4,5,6,7,8,9]
-Prelude>drop 3 lista
-[4,5,6,7,8,9]
-Prelude> let lista = [1,2,3,4,5,6,7,8,9]
-Prelude> take 100 lista 
-[1,2,3,4,5,6,7,8,9]
-Prelude> drop 100 lista
-[]
-Prelude> lista
-[1,2,3,4,5,6,7,8,9]
-Prelude> minimum lista 
-1
+let lista = [1,2,3,4,5,6,7,8,9]
+let listaDeLista = [[1,2],[3,4]]
+reverse lista
+
+reverse listaDeLista
+
+let lista = [1,2,3,4,5,6,7,8,9]
+let listaDeLista = [[1,2],[3,4]]
+take 3 lista
+
+take 1 listaDeLista
+
+let lista = [1,2,3,4,5,6,7,8,9]
+drop 3 lista
+
+let lista = [1,2,3,4,5,6,7,8,9]
+take 100 lista 
+
+drop 100 lista
+
+lista
+
+minimum lista 
+
 Prelude> maximum lista 
 9
 Prelude> lista

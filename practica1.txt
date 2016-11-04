@@ -1,15 +1,13 @@
-Prelude> 5+3
-8
-Prelude> 5/2
-2.5
-Prelude> 5 `div` 2
-2
-Prelude> 5 `mod` 2
-1
-Prelude> 5*9
-45
-Prelude> 7-3
-4
-Prelude> 7-(2*2)
-3
-Prelude> 
+5+3
+
+5/2
+
+5 `div` 2
+
+5 `mod` 2
+ 
+5*9
+
+7-3
+
+7-(2*2) 

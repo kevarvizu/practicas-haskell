@@ -1,0 +1,4 @@
+suma 5
+
+succ (suma 10)
+

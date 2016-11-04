@@ -1,17 +1,16 @@
-Prelude> show 3
-"3"
-Prelude> show 4.123531
-"4.123531"
-Prelude> show False
-"False"
-Prelude> show [1,2,3]
-"[1,2,3]"
-Prelude> show  (1,"dos")
-"(1,\"dos\")"
-Prelude> read "2.2" + 8.8
-11.0
-Prelude> read "False" && True
-False
-Prelude> read "[1,2,3,4,5]" ++ [9]
-[1,2,3,4,5,9]
-Prelude> 
+show 3
+
+show 4.123531
+
+show False
+
+show [1,2,3]
+
+show  (1,"dos")
+
+read "2.2" + 8.8
+
+read "False" && True
+
+read "[1,2,3,4,5]" ++ [9]
+

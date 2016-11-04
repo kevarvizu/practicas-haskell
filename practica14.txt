@@ -1,5 +1,4 @@
-Prelude> let lista = [ 1,2]
-Prelude> let tupla = (1,"dos")
-Prelude> let listaDelista = [ [1,2], [1,2,3,4]]
-Prelude> let tuplaDetupla = [ (1,"hola"),(2,"adios")]
-Prelude> 
+let lista = [ 1,2]
+let tupla = (1,"dos")
+let listaDelista = [ [1,2], [1,2,3,4]]
+let tuplaDetupla = [ (1,"hola"),(2,"adios")]
