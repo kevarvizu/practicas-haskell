@@ -1,0 +1,6 @@
+Prelude> let lista = [1,2,3]
+Prelude> lista !!0
+1
+Prelude> let lista = [[1,2],[3,4]]
+Prelude> lista !!0 !!0
+1

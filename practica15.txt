@@ -1,0 +1,6 @@
+Prelude> let dupla = ("uno", 2)
+Prelude> fst dupla
+"uno"
+Prelude> snd dupla
+2
+Prelude> 

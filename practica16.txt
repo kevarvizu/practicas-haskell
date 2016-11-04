@@ -1,0 +1,5 @@
+Prelude> let nombres = ["kevin", "jorge", "david"]
+Prelude> let estaturas = [1.80, 1.70, 1.75]
+Prelude> zip nombres estaturas
+[("kevin",1.8),("jorge",1.7),("david",1.75)]
+Prelude> 

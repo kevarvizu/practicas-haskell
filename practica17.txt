@@ -1,0 +1,19 @@
+Prelude> :t "a"
+"a" :: [Char]
+Prelude> :t "hola"
+"hola" :: [Char]
+Prelude> :t True
+True :: Bool
+Prelude> :t 6
+6 :: Num t => t
+Prelude> :t 6.7
+6.7 :: Fractional t => t
+Prelude> :t head
+head :: [a] -> a
+Prelude> :t fst
+fst :: (a, b) -> a
+Prelude> :t snd
+snd :: (a, b) -> b
+Prelude> :t 4==5
+4==5 :: Bool
+Prelude> 

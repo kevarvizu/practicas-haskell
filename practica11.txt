@@ -1,0 +1,7 @@
+Prelude> take 4 (repeat 'a')
+"aaaa"
+Prelude> take 3 (cycle [1,2,3,4])
+[1,2,3]
+Prelude> replicate 4 ['h', 'l']
+["hl","hl","hl","hl"]
+Prelude> 

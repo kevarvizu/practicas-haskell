@@ -1,0 +1,40 @@
+Prelude> let lista = [1,2,3,4,5,6,7,8,9]
+Prelude> let listaDeLista = [[1,2],[3,4]]
+Prelude> reverse lista
+[9,8,7,6,5,4,3,2,1]
+Prelude> reverse listaDeLista
+[[3,4],[1,2]]
+Prelude> let lista = [1,2,3,4,5,6,7,8,9]
+Prelude> let listaDeLista = [[1,2],[3,4]]
+Prelude> take 3 lista
+[1,2,3]
+Prelude> take 1 listaDeLista
+[[1,2]]
+Prelude> let lista = [1,2,3,4,5,6,7,8,9]
+Prelude>drop 3 lista
+[4,5,6,7,8,9]
+Prelude> let lista = [1,2,3,4,5,6,7,8,9]
+Prelude> take 100 lista 
+[1,2,3,4,5,6,7,8,9]
+Prelude> drop 100 lista
+[]
+Prelude> lista
+[1,2,3,4,5,6,7,8,9]
+Prelude> minimum lista 
+1
+Prelude> maximum lista 
+9
+Prelude> lista
+[1,2,3,4,5,6,7,8,9]
+Prelude> sum lista
+45
+Prelude> product lista
+362880
+Prelude> 10 `elem` lista
+False
+Prelude> 2 `elem` lista
+True
+Prelude> listaDeLista 
+[[1,2],[3,4]]
+Prelude> 3 `elem` listaDeLista !!1
+True

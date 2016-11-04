@@ -1,0 +1,15 @@
+Prelude> succ 3
+4
+Prelude> succ 'a'
+'b'
+Prelude> max 2 3
+3
+Prelude> min 2 3
+2
+Prelude> max 4 (succ 7)
+8
+Prelude> succ (max 8 6)
+9
+Prelude> succ (max 8(min 30 90))
+31
+Prelude> 

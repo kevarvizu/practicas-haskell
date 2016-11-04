@@ -1,0 +1,19 @@
+Prelude> True
+True
+Prelude> True && False
+False
+Prelude> True || False
+True
+Prelude> 5 == 6
+False
+Prelude> 7 /= 3
+True
+Prelude> 7 > 3
+True
+Prelude> 7 < 3
+False
+Prelude> 3 + 2.5
+5.5
+Prelude> "hola" ++ "mundo"
+"holamundo"
+Prelude> 
